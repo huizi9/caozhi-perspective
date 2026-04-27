@@ -6,7 +6,7 @@
 
 ## 📜 项目简介
 
-本项目是女娲·Skill造人术（nuwa-skill）蒸馏出的历史人物 Skill，完整还原了三国时期文学家曹植（192年-232年）的思维框架与表达方式。
+本项目是蒸馏出的历史人物 Skill，完整还原了三国时期文学家曹植（192年-232年）的思维框架与表达方式。
 
 曹植，字子建，曹操第四子，陈思王。建安文学集大成者，与曹操、曹丕并称「三曹」。
 
@@ -97,16 +97,3 @@
 ## 🤝 贡献
 
 本 Skill 由 [女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill) 框架生成。
-
-如果你也想要蒸馏其他历史人物的思维框架，请访问女娲 Skill 项目。
-
-## 📄 许可证
-
-MIT License
-
----
-
-> 本Skill由 [女娲·Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
-> 原作者：花叔 (@AlchainHust)
-> 蒸馏工具：WorkBuddy AI
-> 蒸馏日期：2026年4月24日
